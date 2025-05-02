@@ -1,1 +1,23 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
 
+# Ignore node_modules (if you're using Node.js in your project)
+node_modules/
+
+# Ignore temporary and cached files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE/editor-specific files and folders
+.idea/
+.DS_Store
+
+# Ignore workspace and project files for Sublime Text (if any)
+*.sublime-workspace
+*.sublime-project
+
+# Ignore build directories (if any)
+dist/
+build/

@@ -1,0 +1,24 @@
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+p img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin: 0 5px;
+  border-radius: 6px;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  vertical-align: middle;
+}

@@ -1,0 +1,33 @@
+div {
+  display: inline-block;  /* подредба един до друг */
+  width: 150px;
+  height: 150px;
+  line-height: 150px;     /* центрира текста вертикално */
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-right: 10px;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  user-select: none; /* предотвратява селекция на текста */
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.orange {
+  background-color: orange;
+}

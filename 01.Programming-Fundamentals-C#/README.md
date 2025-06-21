@@ -1,67 +1,64 @@
-# Основи на HTML и CSS
+# HTML & CSS Basics
 
-Модулът **Основи на HTML и CSS** е предназначен да въведе учащите в основните принципи на уеб разработката, с фокус върху създаването на статични уеб страници с чиста, семантична структура и базово стилизиране. Чрез серия от структурирани упражнения студентите придобиват практически опит в работата с най-важните HTML елементи и прилагането на CSS правила за подобряване на визуалното оформление на съдържанието.
+The **HTML & CSS Basics** common lecture is designed to introduce learners to the core principles of web development, focusing on the creation of static web pages with clean, semantic structure and basic styling. Through a series of structured exercises, students gain practical experience working with the most essential HTML elements and applying CSS rules to enhance the visual layout of content.
 
-Този модул поставя основата за по-напреднало фронтенд програмиране и е също така полезен за QA специалисти, които трябва да разбират структурата на уеб интерфейсите, които тестват.
+This module lays the groundwork for more advanced frontend development and is also relevant for QA professionals who need to understand the structure of the web interfaces they test.
 
-## Модулът включва пет практически задачи:
+## The lecture includes five practical tasks:
 
 ### 1. Welcome to HTML
-Създаване на базова уеб страница с използване на семантични HTML тагове за форматиране на текст.
-- **Упражнени умения:**
-  - Структура на HTML документ
-  - Форматиране на текст с `<p>` и `<strong>`
-  - Задаване на заглавие чрез `<title>`
+Create a basic web page that uses semantic HTML tags to format text.
+- **Practiced skills:**
+  - HTML document structure
+  - Text formatting with `<p>` and `<strong>`
+  - Setting a page title using `<title>`
 
 ### 2. Fruits
-Изграждане на страница, показваща множество изображения, организирани на групи.
-- **Упражнени умения:**
-  - Вмъкване и оразмеряване на изображения чрез `<img>` и CSS
-  - Структуриране на съдържание с `<p>` и `<h1>`
-  - Визуално групиране на елементи
+Build a page that displays multiple images organized in groups.
+- **Practiced skills:**
+  - Inserting and resizing images using `<img>` and internal CSS
+  - Structuring content with `<p>` and `<h1>`
+  - Organizing visual elements for better readability
 
 ### 3. HTML Lists
-Разработване на вложена структура от списъци, комбинираща подредени и неподредени списъци.
-- **Упражнени умения:**
-  - Използване на `<ol>` и `<ul>`
-  - Йерархично подреждане на информация
-  - Работа с много нива на вложеност
+Develop a deeply nested list structure combining both ordered and unordered lists.
+- **Practiced skills:**
+  - Using `<ol>` and `<ul>` effectively
+  - Structuring hierarchical information
+  - Handling multi-level nesting of list items
 
 ### 4. Wiki Page
-Създаване на информационна страница с заглавие, връзка към Wikipedia и списъци.
-- **Упражнени умения:**
-  - Добавяне на външни хипервръзки чрез `<a href>`
-  - Създаване на заглавия с `<h1>`
-  - Използване на подредени и неподредени списъци
+Recreate a simple informational page with a title, a hyperlink to Wikipedia, and both types of lists.
+- **Practiced skills:**
+  - Linking external resources using `<a href>`
+  - Creating page headings with `<h1>`
+  - Differentiating and using `<ol>` and `<ul>` appropriately
 
 ### 5. Color Blocks
-Прилагане на CSS стилове върху блокови елементи въз основа на класове и подравняване в редица.
-- **Упражнени умения:**
-  - CSS стилизиране на елементи чрез класови селектори
-  - Използване на `background-color` за визуално разграничаване
-  - Подреждане на блокове с `display: inline-block`
+Use CSS to style a set of block elements based on class names and align them horizontally.
+- **Practiced skills:**
+  - Class-based CSS styling
+  - Applying `background-color` for visual distinction
+  - Aligning elements with `display: inline-block`
 
 ---
 
-## Умения, които ще придобиеш
+## Skills you will gain
 
-- Създаване на валидни и семантични HTML5 документи  
-- Структуриране на съдържание чрез параграфи, заглавия, списъци и връзки  
-- Стилизиране на елементи чрез CSS3  
-- Работа с изображения и контрол върху тяхното показване  
-- Основни техники за подредба с CSS  
-- Използване на класови селектори за таргетиране и стилизиране на елементи  
-
----
-
-## Използвани технологии
-
-- **HTML5**  
-- **CSS3 (вградено стилизиране чрез `<style>` таг)**
-
-Всяка задача е създадена с цел да упражнява конкретна концепция от HTML или CSS, като подготвя учащите за по-сложна уеб разработка или автоматизирано UI тестване.
+- Creating valid and semantic HTML5 documents
+- Structuring content using paragraphs, headings, lists, and links
+- Styling elements using CSS3
+- Working with image elements and controlling their display
+- Understanding layout techniques like inline blocks
+- Using class selectors to target and style HTML elements
 
 ---
 
-## Автор
-Създадено от [Твоето име] като част от курса **HTML & CSS Fundamentals** в [SoftUni](https://softuni.bg/).
+## Technologies Used
+- **HTML5**
+- **CSS3 (Internal styling)**
+
+Each task is designed to reinforce a specific HTML or CSS concept, preparing learners for more advanced frontend development or automated UI testing.
+
+---
+

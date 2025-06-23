@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    padding: 30px;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #2c3e50;
+}
+
+/* Serif font section */
+.font-1 {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    margin-bottom: 40px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.font-1 strong {
+    font-weight: bold;
+}
+
+.font-1 em {
+    font-style: italic;
+}
+
+.font-1 u {
+    text-decoration: underline;
+}
+
+/* Sans-serif font section */
+.font-2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 40px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+/* Monospace font section */
+.font-3 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 16px;
+    background-color: #eaeaea;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}

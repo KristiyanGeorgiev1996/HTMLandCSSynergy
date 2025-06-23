@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    padding: 40px;
+    color: #333;
+}
+
+.menu {
+    background-color: #d3d3d3;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.main-menu,
+.sub-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.main-menu li,
+.sub-menu li {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    font-size: 18px;
+    cursor: pointer;
+    border-bottom: 1px solid #bbb;
+}
+
+.main-menu li:last-child,
+.sub-menu li:last-child {
+    border-bottom: none;
+}
+
+.icon {
+    margin-right: 12px;
+    font-size: 24px;
+    width: 30px;
+    text-align: center;
+}

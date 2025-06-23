@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: white;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+ol, ul {
+  max-width: 400px;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}

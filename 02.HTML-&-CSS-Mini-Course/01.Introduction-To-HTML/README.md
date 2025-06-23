@@ -1,8 +1,8 @@
 # Introduction to HTML
 
-The **Introduction to HTML** lection introduces learners to the foundational building blocks of the web. It emphasizes semantic HTML structure and basic page formatting using essential tags. The lection consists of five practical tasks, each designed to build confidence and understanding of real-world HTML usage. Minimal CSS is included to reinforce the basics of styling and layout.
+The **Introduction to HTML** lecture introduces learners to the foundational building blocks of the web. It emphasizes semantic HTML structure and basic page formatting using essential tags. The lecture consists of five practical tasks, each designed to build confidence and understanding of real-world HTML usage. Minimal CSS is included to reinforce the basics of styling and layout.
 
-This lection is perfect for beginner front-end developers or QA professionals who want to understand how web interfaces are structured.
+This lecture is perfect for beginner front-end developers or QA professionals who want to understand how web interfaces are structured.
 
 ---
 

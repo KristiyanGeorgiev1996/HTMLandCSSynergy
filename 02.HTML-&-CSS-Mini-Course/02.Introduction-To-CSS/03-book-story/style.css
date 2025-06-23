@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #007BFF; /* син фон */
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.book-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.book-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.book-container h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.book-container p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+}

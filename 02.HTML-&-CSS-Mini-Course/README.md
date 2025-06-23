@@ -1,10 +1,10 @@
 # HTML & CSS Mini Course – Tasks from SoftUni
 
-This repository contains solutions to practical tasks completed during the **HTML & CSS** training at SoftUni. Its purpose is to present a comprehensive collection of exercises demonstrating foundational skills in web development.
+This file contains solutions to practical tasks completed during the **HTML & CSS** training at SoftUni. Its purpose is to present a comprehensive collection of exercises demonstrating foundational skills in web development.
 
 ---
 
-## Repository Contents
+## File Contents
 
 - **Introduction to HTML** – tasks focused on semantic HTML structure and basic page layout.  
 - **Introduction to CSS** – exercises covering styling techniques, layout, and fundamental CSS properties.  
@@ -12,7 +12,7 @@ This repository contains solutions to practical tasks completed during the **HTM
 
 ---
 
-## How to Use This Repository
+## How to Use This File
 
 - Each folder contains separate solutions to tasks from the SoftUni course.  
 - HTML files can be opened directly in a modern browser for preview.  
@@ -30,7 +30,7 @@ This repository contains solutions to practical tasks completed during the **HTM
 
 ## Purpose
 
-This repository serves as a professional portfolio showcasing practical HTML and CSS skills through structured exercises from SoftUni.
+This file serves as a professional portfolio showcasing practical HTML and CSS skills through structured exercises from SoftUni.
 
 ---
 

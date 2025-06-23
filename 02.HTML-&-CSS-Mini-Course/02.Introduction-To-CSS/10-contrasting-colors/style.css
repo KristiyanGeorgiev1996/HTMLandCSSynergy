@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 40px;
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: #222;
+}
+
+/* Общ стил за цветните блокове */
+.color-block {
+    width: 300px;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Контраст 1: Тъмно синьо фон, светло жълт текст */
+.block1 {
+    background-color: #002147;
+    color: #f9f871;
+}
+
+/* Контраст 2: Ярко оранжево фон, тъмно син текст */
+.block2 {
+    background-color: #ff6600;
+    color: #001f4d;
+}
+
+/* Контраст 3: Светло сиво фон, тъмно червен текст */
+.block3 {
+    background-color: #d3d3d3;
+    color: #8b0000;
+}

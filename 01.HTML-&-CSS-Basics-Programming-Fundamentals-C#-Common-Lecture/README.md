@@ -1,63 +1,63 @@
-# HTML & CSS Basics
+# Basics of HTML & CSS
 
-The **HTML & CSS Basics** common lecture is designed to introduce learners to the core principles of web development, focusing on the creation of static web pages with clean, semantic structure and basic styling. Through a series of structured exercises, students gain practical experience working with the most essential HTML elements and applying CSS rules to enhance the visual layout of content.
+This lecture covers essential web development concepts, focusing on creating static webpages with semantic HTML and basic CSS styling. Through guided exercises, learners acquire practical skills working with core HTML elements and CSS rules that enhance webpage layout and appearance.
 
-This module lays the groundwork for more advanced frontend development and is also relevant for QA professionals who need to understand the structure of the web interfaces they test.
+These fundamentals are valuable for frontend developers and QA professionals testing web interfaces.
 
-## The lecture includes five practical tasks:
+## Practical Exercises Included
 
-### 1. Welcome to HTML
-Create a basic web page that uses semantic HTML tags to format text.
-- **Practiced skills:**
-  - HTML document structure
-  - Text formatting with `<p>` and `<strong>`
-  - Setting a page title using `<title>`
+### 1. Getting Started with HTML
+Build a simple webpage using semantic tags to format textual content.
+- **Skills practiced:**
+  - Structuring an HTML document
+  - Formatting text with paragraphs and bold text
+  - Adding a title to the webpage
 
-### 2. Fruits
-Build a page that displays multiple images organized in groups.
-- **Practiced skills:**
-  - Inserting and resizing images using `<img>` and internal CSS
-  - Structuring content with `<p>` and `<h1>`
-  - Organizing visual elements for better readability
+### 2. Fruits Display
+Create a page showing groups of images arranged for clear presentation.
+- **Skills practiced:**
+  - Adding images and resizing them via CSS
+  - Using paragraphs and headings to organize content
+  - Improving visual clarity with layout techniques
 
-### 3. HTML Lists
-Develop a deeply nested list structure combining both ordered and unordered lists.
-- **Practiced skills:**
-  - Using `<ol>` and `<ul>` effectively
-  - Structuring hierarchical information
-  - Handling multi-level nesting of list items
+### 3. Nested Lists
+Construct complex lists mixing ordered and unordered types.
+- **Skills practiced:**
+  - Creating ordered (`<ol>`) and unordered (`<ul>`) lists
+  - Managing multi-level nesting of list items
+  - Presenting hierarchical data clearly
 
-### 4. Wiki Page
-Recreate a simple informational page with a title, a hyperlink to Wikipedia, and both types of lists.
-- **Practiced skills:**
-  - Linking external resources using `<a href>`
-  - Creating page headings with `<h1>`
-  - Differentiating and using `<ol>` and `<ul>` appropriately
+### 4. Simple Wiki Page
+Recreate a webpage with a heading, external link, and both types of lists.
+- **Skills practiced:**
+  - Adding external hyperlinks
+  - Using headings effectively
+  - Combining ordered and unordered lists
 
-### 5. Color Blocks
-Use CSS to style a set of block elements based on class names and align them horizontally.
-- **Practiced skills:**
-  - Class-based CSS styling
-  - Applying `background-color` for visual distinction
-  - Aligning elements with `display: inline-block`
-
----
-
-## Skills you will gain
-
-- Creating valid and semantic HTML5 documents
-- Structuring content using paragraphs, headings, lists, and links
-- Styling elements using CSS3
-- Working with image elements and controlling their display
-- Understanding layout techniques like inline blocks
-- Using class selectors to target and style HTML elements
+### 5. Colored Blocks Styling
+Style several block elements with CSS classes and align them horizontally.
+- **Skills practiced:**
+  - Using CSS class selectors
+  - Applying background colors
+  - Arranging elements side by side with `inline-block`
 
 ---
 
-## Technologies Used
-- **HTML5**
-- **CSS3 (Internal styling)**
+## Skills Developed
 
-Each task is designed to reinforce a specific HTML or CSS concept, preparing learners for more advanced frontend development or automated UI testing.
+- Writing valid, semantic HTML5 markup
+- Organizing content using text blocks, headings, lists, and links
+- Applying CSS3 for styling and layout
+- Handling images in HTML and CSS
+- Using CSS display properties for alignment
+- Targeting elements by class in CSS
 
 ---
+
+## Technologies Utilized
+
+- HTML5
+- CSS3 (internal styling)
+
+These tasks build a solid base for further frontend development or UI testing automation.
+

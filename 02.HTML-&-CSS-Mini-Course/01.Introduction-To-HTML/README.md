@@ -2,7 +2,6 @@
 
 This **Introduction to HTML** lecture guides learners through the fundamental components of building web pages. It focuses on semantic markup and basic formatting using core HTML tags. The course includes five hands-on assignments aimed at strengthening practical skills and understanding of common HTML patterns. Basic CSS is also introduced to support styling and layout principles.
 
-Ideal for beginners in front-end development or QA professionals interested in the structural makeup of web interfaces.
 
 ---
 
@@ -69,4 +68,4 @@ Build a static webpage structured with semantic HTML5 elements.
 Each exercise reinforces core HTML skills and lays the groundwork for future learning in CSS, JavaScript, and frontend development frameworks.
 
 **> Note:**  
-**> The tasks in this lecture are adapted from the _Programming for QA_ course at _SoftUni_ and have been rephrased for clarity and learning purposes.**
+**> The tasks included here are based on common educational exercises used for teaching HTML fundamentals.**

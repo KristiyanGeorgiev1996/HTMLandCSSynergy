@@ -68,4 +68,4 @@ Build a static webpage structured with semantic HTML5 elements.
 Each exercise reinforces core HTML skills and lays the groundwork for future learning in CSS, JavaScript, and frontend development frameworks.
 
 **> Note:**  
-**> The tasks included here are based on common educational exercises used for teaching HTML fundamentals.**
+**> The tasks included here are based on common educational exercises from SoftUni used for teaching HTML fundamentals.**

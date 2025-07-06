@@ -2,7 +2,6 @@
 
 This **HTML & CSS Fundamentals** module introduces learners to the essential building blocks of web development. The focus is on creating simple, static webpages with meaningful markup and basic styling techniques. Through practical exercises, participants familiarize themselves with core HTML elements and CSS properties to structure and beautify content effectively.
 
-This foundational course is perfect for those aspiring to front-end development and QA professionals who need a solid understanding of web page architecture.
 
 ## Practical Assignments Overview:
 
@@ -59,4 +58,5 @@ Style a set of block-level elements using CSS classes, assign distinct backgroun
 - **HTML5**  
 - **CSS3** (using internal stylesheets)
 
-This course’s hands-on approach ensures a solid grasp of essential web development skills, serving as a stepping stone for more advanced frontend work or QA testing of web applications.
+**> Note:**  
+**> The tasks included here are based on common educational exercises from SoftUni used for teaching HTML fundamentals.**

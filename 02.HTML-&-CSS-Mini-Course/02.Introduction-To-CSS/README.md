@@ -1,120 +1,124 @@
 # Introduction to CSS
 
-This lecture aims to introduce learners to the basics of styling web pages using CSS. It covers fundamental topics such as selectors, colors, typography, layout techniques, and button designs. Throughout 13 practical exercises, students will progressively build their CSS skills by applying various properties and styling methods.
+This lecture provides a fundamental overview of CSS, focusing on how to style and arrange content on web pages. Learners will explore core concepts like selectors, colors, typography, layouts, and interactive elements through a series of 13 hands-on tasks. Each exercise gradually enhances skills for crafting visually appealing and user-friendly interfaces.
 
-The module is perfect for beginner front-end developers or QA specialists who want to deepen their understanding of how CSS affects the look and feel of web interfaces.
+This material is ideal for beginners in front-end development or QA professionals aiming to understand the visual presentation layer of web applications.
 
 ---
 
-## Practical Exercises Included:
+## Overview of Hands-On Tasks:
 
-### 1. Reversed List  
-Create a styled container with three reversed instructions arranged vertically and aligned to the left.  
-- **Skills practiced:**  
-  - Box model concepts: borders and padding  
+### 1. Inverted Instruction List  
+Build a vertical container displaying three instructions in reverse order, aligned to the left.  
+- **Key skills:**  
+  - Understanding box model properties such as borders and padding  
   - Text alignment techniques  
-  - Vertical stacking of content  
+  - Stacking elements vertically  
 
-### 2. The Modern JavaScript  
-Construct an info panel with headings and lists on a colored background, utilizing different font sizes and text alignment.  
-- **Skills practiced:**  
-  - Adjusting font sizes and weights  
+### 2. JavaScript Info Panel  
+Create an informational section with headers and lists, set on a colored background.  
+- **Key skills:**  
+  - Adjusting typography with font sizes and weights  
   - Applying background colors  
   - Managing text alignment and spacing  
 
-### 3. The Book Story  
-Design a small info box including a title, chapter subtitle, and descriptive paragraph on a colored background.  
-- **Skills practiced:**  
-  - Using heading hierarchy effectively  
-  - Styling paragraphs  
-  - Adding padding and background styles  
+### 3. Book Overview Box  
+Design a compact info box containing a main title, subtitle for the chapter, and a descriptive paragraph on a styled background.  
+- **Key skills:**  
+  - Utilizing heading levels appropriately  
+  - Paragraph styling  
+  - Adding padding and background colors  
 
-### 4. World Cup News  
-Create multiple content blocks featuring images and destination names, styled consistently on a light background.  
-- **Skills practiced:**  
-  - Box sizing and border styling  
-  - Aligning images and text  
-  - Consistent image dimensions with CSS  
+### 4. Sports Event Highlights  
+Arrange multiple content blocks presenting images and their respective titles, consistently styled with a subtle background.  
+- **Key skills:**  
+  - Controlling box sizing and borders  
+  - Aligning images alongside text  
+  - Maintaining uniform image dimensions  
 
-### 5. Restaurant Menu  
-Develop a simple and appealing menu layout divided into appetizers, main courses, and desserts sections.  
-- **Skills practiced:**  
-  - Grouping content with divs and headings  
-  - Text styling and spacing management  
-  - Layout with padding and margins  
+### 5. Simple Menu Layout  
+Develop a neat menu divided into sections such as starters, main dishes, and desserts.  
+- **Key skills:**  
+  - Grouping related content with divs and headings  
+  - Styling text and managing spacing  
+  - Layout with margin and padding  
 
-### 6. Style Lists  
-Produce two side-by-side boxes displaying unordered and reversed ordered lists with styled titles.  
-- **Skills practiced:**  
-  - Styling list elements (`ul` and `ol`)  
-  - Horizontal box layout  
+### 6. List Styling Comparison  
+Create two side-by-side boxes showcasing an unordered list and a reversed ordered list with titles.  
+- **Key skills:**  
+  - Styling lists (`ul` and `ol`)  
+  - Horizontal box arrangement  
   - Text formatting  
 
-### 7. Styling Tables  
-Create a table showing data for the top 15 most populous countries, with styled headers and cells.  
-- **Skills practiced:**  
-  - Table structure and styling  
-  - Borders and spacing in tables  
-  - Text alignment within table cells  
+### 7. Country Population Table  
+Build a styled table displaying data of the world’s top 15 populous countries, including header and data cells formatting.  
+- **Key skills:**  
+  - Structuring tables and styling cells  
+  - Adding borders and spacing  
+  - Aligning text in cells  
 
-### 8. Buttons CSS  
-Design areas featuring three types of buttons: normal, filled, and icon buttons, all with uniform styles and hover effects.  
-- **Skills practiced:**  
-  - Button styling: backgrounds and borders  
-  - Implementing hover effects  
-  - Using inline-flex to align icons and text  
+### 8. Variety of Buttons  
+Design three types of buttons: standard, filled, and icon-based, each with consistent styling and hover effects.  
+- **Key skills:**  
+  - Button styling with backgrounds and borders  
+  - Implementing hover states  
+  - Aligning icons and text using inline-flex  
 
-### 9. Fonts Specimen  
-Showcase different font families, sizes, and weights in a styled text area to demonstrate typography principles.  
-- **Skills practiced:**  
-  - Font-family and font-weight properties  
-  - Text styling and layout  
-  - Managing font properties with CSS  
+### 9. Font Showcase  
+Display different fonts with varied sizes and weights to demonstrate typography control.  
+- **Key skills:**  
+  - Setting font families and weights  
+  - Styling and layout of text  
+  - Managing font properties  
 
-### 10. Contrasting Colors  
-Create blocks with contrasting background and text colors to practice color theory and improve accessibility.  
-- **Skills practiced:**  
-  - Using background and text color contrasts  
+### 10. Color Contrast Blocks  
+Create visual blocks that use contrasting background and text colors for better readability and accessibility.  
+- **Key skills:**  
+  - Applying contrasting colors  
   - CSS color properties  
-  - Establishing visual hierarchy through color  
+  - Visual hierarchy through color  
 
-### 11. The Making of a CSS Font  
-Construct a typographic layout featuring headings, subheadings, and paragraphs to demonstrate text hierarchy and styling.  
-- **Skills practiced:**  
-  - Managing text hierarchy and spacing  
-  - Font size, style, and decoration  
+### 11. Typography Composition  
+Develop a text layout with headings, subheadings, and paragraphs to practice text hierarchy and spacing.  
+- **Key skills:**  
+  - Managing text spacing and hierarchy  
+  - Styling font size, style, and decoration  
   - Paragraph formatting  
 
-### 12. Font Awesome Icon  
-Build a sidebar menu with icons and labels, plus an action bar with various icons and descriptive text.  
-- **Skills practiced:**  
-  - Incorporating icon fonts or emojis within buttons  
-  - Sidebar layout creation  
-  - Styling menus and action bars with CSS  
+### 12. Sidebar with Icons  
+Construct a sidebar navigation menu featuring icons and labels, along with an action bar containing icon buttons with descriptions.  
+- **Key skills:**  
+  - Using icon fonts or emojis in buttons  
+  - Sidebar layout techniques  
+  - Styling menus and action bars  
 
-### 13. Icon Font Button  
-Create buttons combining icons and text with hover effects and different color themes (e.g., save, edit, delete).  
-- **Skills practiced:**  
+### 13. Icon Button Variations  
+Create buttons combining icons and text, featuring hover effects and color themes such as save, edit, and delete.  
+- **Key skills:**  
   - Styling buttons with icons and text  
-  - Flexbox for alignment inside buttons  
-  - Hover and active button states  
+  - Using flexbox for alignment  
+  - Hover and active states styling  
 
 ---
 
-## Skills You Will Develop
+## Skills Developed
 
-- Mastering CSS selectors and properties to style web elements  
-- Building layouts using boxes, tables, lists, and buttons  
-- Applying colors, fonts, and spacing effectively  
-- Creating interactive hover styles  
-- Integrating icons within UI components  
-- Producing visually consistent and accessible page elements  
+- Mastering CSS selectors and property application  
+- Building layouts with boxes, tables, lists, and buttons  
+- Applying colors, typography, and spacing effectively  
+- Creating interactive UI elements with hover states  
+- Incorporating icons into interface components  
+- Producing visually consistent and accessible designs  
 
 ---
 
-## Technologies Employed
+## Technologies Utilized
 
 - **HTML5**  
 - **CSS3** (external stylesheets)  
 
-Each assignment reinforces particular CSS concepts, helping learners gain confidence and readiness for more advanced front-end development or UI automation tasks.
+---
+
+# Note  
+The tasks are sourced from the respective SoftUni course and have been reformulated to provide clearer and more illustrative presentations of the exercises.
+

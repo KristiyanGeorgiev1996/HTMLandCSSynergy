@@ -1,6 +1,6 @@
 # Introduction to HTML & CSS
 
-This **HTML & CSS Fundamentals** module introduces learners to the essential building blocks of web development. The focus is on creating simple, static webpages with meaningful markup and basic styling techniques. Through practical exercises, participants familiarize themselves with core HTML elements and CSS properties to structure and beautify content effectively.
+This **HTML & CSS** module introduces learners to the essential building blocks of web development. The focus is on creating simple, static webpages with meaningful markup and basic styling techniques. Through practical exercises, participants familiarize themselves with core HTML elements and CSS properties to structure and beautify content effectively.
 
 
 ## Practical Assignments Overview:
@@ -59,4 +59,4 @@ Style a set of block-level elements using CSS classes, assign distinct backgroun
 - **CSS3** (using internal stylesheets)
 
 **> Note:**  
-**> The tasks included here are based on common educational exercises from SoftUni used for teaching HTML fundamentals.**
+**> The tasks included here are based on common educational exercises from SoftUni used for teaching HTML & CSS.**

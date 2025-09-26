@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(238,238,238);
+    font-family: Georgia, serif;
+}
+
+header {
+    background-color: white;
+    padding: 10px 20px;
+}
+
+header p {
+    font-size: 1.5em;
+    margin: 0 0 10px 0;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+header nav a {
+    color: rgb(0,102,0);
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+}
+
+article {
+    flex: 3;
+    padding-right: 20px;
+}
+
+article header h1 {
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+
+aside {
+    flex: 1;
+}
+
+aside section {
+    margin-bottom: 20px;
+}
+
+aside h3 {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+aside nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+aside nav li {
+    margin-bottom: 5px;
+}
+
+aside nav a {
+    color: rgb(0,102,0);
+    text-decoration: none;
+}

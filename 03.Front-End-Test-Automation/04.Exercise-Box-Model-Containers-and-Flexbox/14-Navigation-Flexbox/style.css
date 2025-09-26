@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  display: flex;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  padding: 10px 20px;
+}
+
+header .nav {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+header .nav li a {
+  text-decoration: none;
+  color: rgb(0, 153, 0);
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+main h1 {
+  font-family: Georgia, serif;
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+
+main p {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  max-width: 65vw;
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 5px;
+}
+
+.calendar .header.full {
+  grid-column: span 5;
+  text-align: center;
+  font-weight: bold;
+  background-color: #d9d9d9;
+  padding: 10px;
+}
+
+.calendar span {
+  border: 1px solid black;
+  padding: 15px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.notes {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.notes .header {
+  font-weight: bold;
+  text-align: center;
+  background-color: #d9d9d9;
+  padding: 10px;
+}
+
+.notes span {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center;
+}

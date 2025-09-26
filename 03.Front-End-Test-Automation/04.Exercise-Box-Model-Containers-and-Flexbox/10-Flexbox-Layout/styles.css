@@ -1,0 +1,33 @@
+body {
+    background-color: #EEE;
+    padding: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem; 
+    font-family: Arial, sans-serif;
+    color: #000;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header, main, aside, footer {
+    padding: 2rem;
+    background-color: #FFF;
+    border-radius: 0.4rem;
+}
+
+header, footer {
+    flex: 0 0 100%; 
+}
+
+main {
+    flex: 8 1 40rem;
+}
+
+aside {
+    flex: 2 1 20rem;
+}
+
+h1, h2 {
+    margin-top: 0;
+}

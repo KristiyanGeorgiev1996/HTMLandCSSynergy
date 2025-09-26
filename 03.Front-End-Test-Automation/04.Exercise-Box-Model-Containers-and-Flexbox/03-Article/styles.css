@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+main {
+    width: 900px;
+    height: 140px;
+    background-color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+main img {
+    float: left; 
+    border-right: 1px solid #d1d1d1;
+    margin-right: 19px;
+    padding-right: 19px;
+    height: 120px;
+}
+
+main p {
+    font-size: 15px;
+    line-height: 30px;
+    color: #2e2e2e;
+    text-align: justify;
+    margin: 0;
+}

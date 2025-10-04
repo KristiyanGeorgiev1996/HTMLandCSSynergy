@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag Cardio: Datalist</title>
+    <link rel="stylesheet" href="datalist.css">
+</head>
+<body>
+    <h1>Tag Cardio: Datalist</h1>
+
+    <form>
+        <label for="browser">Choose your browser from the list:</label><br>
+        <input list="browsers" id="browser" name="browser"><br><br>
+
+        <datalist id="browsers">
+            <option value="Edge">
+            <option value="Firefox">
+            <option value="Chrome">
+            <option value="Opera">
+            <option value="Safari">
+        </datalist>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

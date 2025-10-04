@@ -4,7 +4,6 @@ This folder contains tasks from the **Front-End Layout** section of the _Program
 
 ## 🔧 Tasks Overview
 
----
 
 ### 📝 Task 1: [Box Model Visualised]  
 **Problem Statement:**  

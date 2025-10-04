@@ -6,7 +6,7 @@ This file contains exercises from the **Box Model, Containers and FlexBox** modu
 
 ## 🔧 Tasks Overview
 
-### **Task 1 – Box Model Container**
+### 📝 **Task 1 – Box Model Container**
 **Problem Statement:**  
 Create an HTML page that visualizes a container with text demonstrating the CSS box model through `padding`, `margin`, `border`, and different border styles and border-radius.  
 **Requirements:**  
@@ -18,7 +18,7 @@ Create an HTML page that visualizes a container with text demonstrating the CSS 
 
 ---
 
-### **Task 2 – Brazil Coffee Product Card**
+### 📝 **Task 2 – Brazil Coffee Product Card**
 **Problem Statement:**  
 Create a product card for Brazilian coffee inside a semantic `<section>` with an image, title, price, buy button, and promotional text.  
 **Requirements:**  
@@ -29,7 +29,7 @@ Create a product card for Brazilian coffee inside a semantic `<section>` with an
 
 ---
 
-### **Task 3 – Article Layout with Image and Text**
+### 📝 **Task 3 – Article Layout with Image and Text**
 **Problem Statement:**  
 Create an HTML page presenting an article with an image aligned left and text occupying the remaining space inside `<main>`.  
 **Requirements:**  
@@ -40,7 +40,7 @@ Create an HTML page presenting an article with an image aligned left and text oc
 
 ---
 
-### **Task 4 – Navigation Inline Block Layout**
+### 📝 **Task 4 – Navigation Inline Block Layout**
 **Problem Statement:**  
 Create a page with a header containing a title and horizontal navigation using an unordered list with inline-block items.  
 **Requirements:**  
@@ -52,7 +52,7 @@ Create a page with a header containing a title and horizontal navigation using a
 
 ---
 
-### **Task 5 – Photo Gallery (Inline Block Layout)**
+### 📝 **Task 5 – Photo Gallery (Inline Block Layout)**
 **Problem Statement:**  
 Create a photo gallery with images in rows using inline-block `<li>` elements.  
 **Requirements:**  
@@ -63,7 +63,7 @@ Create a photo gallery with images in rows using inline-block `<li>` elements.
 
 ---
 
-### **Task 6 – Positioning Playground**
+### 📝 **Task 6 – Positioning Playground**
 **Problem Statement:**  
 Create a page demonstrating absolute positioning and centering using `position` and `transform`.  
 **Requirements:**  
@@ -74,7 +74,7 @@ Create a page demonstrating absolute positioning and centering using `position` 
 
 ---
 
-### **Task 7 – Center Position and Transform**
+### 📝 **Task 7 – Center Position and Transform**
 **Problem Statement:**  
 Center a card element with overlapping image, text, and button using Flexbox and transform.  
 **Requirements:**  
@@ -85,7 +85,7 @@ Center a card element with overlapping image, text, and button using Flexbox and
 
 ---
 
-### **Task 8 – Navigation – Float**
+### 📝 **Task 8 – Navigation – Float**
 **Problem Statement:**  
 Create a layout demonstrating floating elements for navigation and content.  
 **Requirements:**  
@@ -97,7 +97,7 @@ Create a layout demonstrating floating elements for navigation and content.
 
 ---
 
-### **Task 9 – Social Media Icons with Font Awesome**
+### 📝 **Task 9 – Social Media Icons with Font Awesome**
 **Problem Statement:**  
 Create a page showing social media icons using Font Awesome with hover effects.  
 **Requirements:**  
@@ -108,7 +108,7 @@ Create a page showing social media icons using Font Awesome with hover effects.
 
 ---
 
-### **Task 10 – Flexbox Layout (Header, Main, Sidebar, Footer)**
+### 📝 **Task 10 – Flexbox Layout (Header, Main, Sidebar, Footer)**
 **Problem Statement:**  
 Build a four-section layout using Flexbox to demonstrate dynamic resizing.  
 **Requirements:**  
@@ -119,7 +119,7 @@ Build a four-section layout using Flexbox to demonstrate dynamic resizing.
 
 ---
 
-### **Task 11 – Responsive Articles Section with Flexbox**
+### 📝 **Task 11 – Responsive Articles Section with Flexbox**
 **Problem Statement:**  
 Create a section with multiple articles arranged horizontally using Flexbox.  
 **Requirements:**  
@@ -130,7 +130,7 @@ Create a section with multiple articles arranged horizontally using Flexbox.
 
 ---
 
-### **Task 12 – Vertical Letter Stack – ABC Game**
+### 📝 **Task 12 – Vertical Letter Stack – ABC Game**
 **Problem Statement:**  
 Create a vertical stack of letters styled as individual cards.  
 **Requirements:**  
@@ -141,7 +141,7 @@ Create a vertical stack of letters styled as individual cards.
 
 ---
 
-### **Task 13 – Calendar Layout with Notes**
+### 📝 **Task 13 – Calendar Layout with Notes**
 **Problem Statement:**  
 Create a weekly calendar with a notes panel combining CSS Grid and Flexbox.  
 **Requirements:**  
@@ -152,7 +152,7 @@ Create a weekly calendar with a notes panel combining CSS Grid and Flexbox.
 
 ---
 
-### **Task 14 – Navigation Bar with Flexbox**
+### 📝 **Task 14 – Navigation Bar with Flexbox**
 **Problem Statement:**  
 Create a horizontal navigation bar using Flexbox with equal spacing between links.  
 **Requirements:**  
@@ -163,7 +163,7 @@ Create a horizontal navigation bar using Flexbox with equal spacing between link
 
 ---
 
-### **Task 15 – Photo Gallery using Flexbox**
+### 📝 **Task 15 – Photo Gallery using Flexbox**
 **Problem Statement:**  
 Create a photo gallery arranged in rows using Flexbox with automatic wrapping.  
 **Requirements:**  
@@ -174,7 +174,7 @@ Create a photo gallery arranged in rows using Flexbox with automatic wrapping.
 
 ---
 
-### **Task 16 – Blog Layout using Flexbox**
+### 📝 **Task 16 – Blog Layout using Flexbox**
 **Problem Statement:**  
 Create a blog layout with main content and sidebar arranged horizontally using Flexbox.  
 **Requirements:**  
@@ -185,7 +185,7 @@ Create a blog layout with main content and sidebar arranged horizontally using F
 
 ---
 
-### **Task 17 – Sticky Footer using Flexbox**
+### 📝 **Task 17 – Sticky Footer using Flexbox**
 **Problem Statement:**  
 Create a page with a sticky footer that remains at the bottom using Flexbox.  
 **Requirements:**  
@@ -196,7 +196,7 @@ Create a page with a sticky footer that remains at the bottom using Flexbox.
 
 ---
 
-### **Task 18 – Center a Card using Flexbox**
+### 📝 **Task 18 – Center a Card using Flexbox**
 **Problem Statement:**  
 Create a page with a single centered card in the viewport.  
 **Requirements:**  

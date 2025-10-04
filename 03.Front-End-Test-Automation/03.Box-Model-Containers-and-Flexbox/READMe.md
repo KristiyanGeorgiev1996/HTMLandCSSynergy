@@ -1,6 +1,6 @@
-# Front-End Layout Exercises – Programming Basics with C# 🧑💻
+# Box Model Containers and Flexbox – Front-End Test Automation 🧑💻
 
-This folder contains tasks from the **Front-End Layout** section of the _Programming Basics with C#_ course at SoftUni. Below are the tasks with professional descriptions.
+This folder contains tasks from the **Box Model Containers and Flexbox** section of the _Front-End Test Automation_ course at SoftUni. Below are the tasks with professional descriptions.
 
 ## 🔧 Tasks Overview
 
